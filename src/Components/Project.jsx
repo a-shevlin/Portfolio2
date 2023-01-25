@@ -13,7 +13,7 @@ function Project(props) {
         </video>
         }
         <a rel="noreferrer" href={props.url} target="_blank">
-          <div class="w-full p-2.5 top-0 inset-x-0 text-blue-500 dark:text-slate-200 text-xl text-left select-none font-semibold :hover:brightness-75 dark:hover:text-sky-400 hover:text-blue-700">
+          <div className="w-full p-2.5 top-0 inset-x-0 text-blue-500 dark:text-slate-200 text-xl text-left select-none font-semibold :hover:brightness-75 dark:hover:text-sky-400 hover:text-blue-700">
             <p className="tracking-wide">
               {props.name}
             </p>
