@@ -9,7 +9,7 @@ import alex from "./assets/alex-headshot.png"
 
 function App() {
   return (
-    <div className="h-full w-full bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))]  from-blue-200 via-pink-200 to-amber-200  dark:from-sky-900 dark:via-black dark:to-blue-800  dark:text-blue-100 text-slate-800">
+    <div className="h-full w-full bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))]  from-blue-200 via-pink-200 to-amber-200  dark:from-sky-900 dark:via-[#0a0a0a] dark:to-blue-800  dark:text-blue-100 text-slate-800">
       <Nav />
       <div className="py-5 font-semibold mx-auto w-3/4 h-full">
 
