@@ -32,7 +32,7 @@ function About() {
       <div className="w-full mx-auto">
         <h4 className="text-xl text-left font-semibold py-3">My Experience</h4>
         <div className="space-y-3 pb-4 leading-7 w-5/6 mx-auto text-justify">
-          <p className="pt-4">I am a skilled Software Engineer with 3 years of experience in this field and 6 years across Management. Day to day I use C# and JavaScript with frameworks such as React and Angular and both SQL and NoSQL databases like MongoDB, MS SQL, and Firestore. </p>
+          <p className="pt-4">I am a skilled Software Engineer with 3 years of experience in this field and 6 years across Management roles. Day to day I use C# and JavaScript with frameworks such as React and Angular and both SQL and NoSQL databases like MongoDB, MS SQL, and Firestore. </p>
           <p>I am detail-oriented and able to effectively plan and execute projects from start to finish, ensuring that all deadlines are met and that all stakeholders are kept informed. I have a proven track record of leading teams, and am skilled in team building and communication. </p> 
           <p>Overall, I hope to be valuable asset to any team, with a combination of technical, managerial, and marketing expertise.</p>
         </div>
